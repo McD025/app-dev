@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-<h1>Mark Ronald Paningnbatan</h1>
+<h1>Mark Ronald Paningbatan</h1>
